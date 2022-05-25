@@ -4,7 +4,9 @@ Hi there!
 I am QA engineer of Voiso Team and student [QA.guru school](https://qa.guru/)
 
 :notebook:	Project of UI+API and Mobile automation testing:
+
 [UI test](https://github.com/0yanna/qaguru_diploma)
+
 [Mobile test](https://github.com/0yanna/qaguru_diploma_mobile)
 
 <p align="center">
