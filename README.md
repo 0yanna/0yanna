@@ -18,13 +18,10 @@ I am QA engineer of [Voiso Team](https://voiso.com/) and student [QA.guru school
 ### Contact me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/yannaosodoeva/">
-    <img src="images/LinkedIn.svg" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:yannaosodoeva@outlook.com">
-    <img src="images/Gmail.svg" alt="Gmail Badge"/>
+    <img src="logo/LinkedIn.svg" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/yanna_o">
-    <img src="images/Telegram.svg" alt="Telegram Badge"/>
+    <img src="logo/Telegram.svg" alt="Telegram Badge"/>
   </a>
 </div>
   
