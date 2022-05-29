@@ -1,7 +1,7 @@
 Hi there!
 
 
-I am QA engineer of Voiso Team and student [QA.guru school](https://qa.guru/)
+I am QA engineer of [Voiso Team](https://voiso.com/) and student [QA.guru school](https://qa.guru/)
 
 :notebook:	Project of UI+API and Mobile automation testing:
 
