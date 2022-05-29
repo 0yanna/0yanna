@@ -14,6 +14,17 @@ I am QA engineer of [Voiso Team](https://voiso.com/) and student [QA.guru school
 
 <p align="center">
 <a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=0yanna&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
-  
-  
+
+### Contact me: 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yannaosodoeva/">
+    <img src="images/LinkedIn.svg" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:yannaosodoeva@outlook.com">
+    <img src="images/Gmail.svg" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/yanna_o">
+    <img src="images/Telegram.svg" alt="Telegram Badge"/>
+  </a>
+</div>
   
